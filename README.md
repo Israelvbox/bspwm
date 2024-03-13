@@ -88,5 +88,5 @@ This configuration uses the following software:
 - **Screenshot**: [flameshot](https://flameshot.org/)
 
 ## Credits
-- This environment has been inspired by the functionalities of [S4vitar's](https://github.com/s4vitar) environment.
+- [r1vs3c](https://github.com/r1vs3c) environment.
 - Thanks to [Cube](https://github.com/ZLCube) for their contribution to the creation of the `archkali.png` wallpaper.
