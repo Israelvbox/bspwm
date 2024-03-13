@@ -16,11 +16,13 @@ chmod +x setup.sh
 2. After the script has finished, you will be prompted to restart the system. Once you have rebooted, select `bspwm` as the window manager and then log in.
 
 ## Overview of the environment
-![overview1](/assets/overview1.png "overview1")
+![image](https://github.com/Israelvbox/bspwm/assets/131161675/2ea32ca7-7cc6-4985-88cb-fd350ecde0ce)
 
-![overview2](/assets/overview2.png "overview2")
 
-![overview3](/assets/overview3.png "overview3")
+![image](https://github.com/Israelvbox/bspwm/assets/131161675/c50f361b-1a0d-4ef9-a1dc-b2bc76088227)
+
+
+![image](https://github.com/Israelvbox/bspwm/assets/131161675/762dee41-ea3f-4b52-8849-e11c17b51419)
 
 
 ## Keyboard shortcuts
