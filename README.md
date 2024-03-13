@@ -8,7 +8,7 @@
 sudo apt update
 sudo apt upgrade -y
 git clone https://github.com/Israelvbox/bspwm
-cd auto-bspwm
+cd bspwm
 chmod +x setup.sh
 ./setup.sh
 ```
