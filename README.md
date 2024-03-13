@@ -7,7 +7,7 @@
 ```shell
 sudo apt update
 sudo apt upgrade -y
-git clone https://github.com/r1vs3c/auto-bspwm.git
+git clone https://github.com/Israelvbox/bspwm
 cd auto-bspwm
 chmod +x setup.sh
 ./setup.sh
