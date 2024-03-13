@@ -2,33 +2,18 @@
 > This is a Bash script that automates the setup of a professional hacking environment for Kali Linux using the tiled window manager [bspwm](https://github.com/baskerville/bspwm).
 
 ## Installation
-1. Install available updates.
+1. Copy and paste.
 
 ```shell
 sudo apt update
 sudo apt upgrade -y
-```
-
-2. Clone the repository and navigate to it.
-
-```shell
 git clone https://github.com/r1vs3c/auto-bspwm.git
 cd auto-bspwm
-```
-
-3. Grant execution permissions to the script.
-
-```shell
 chmod +x setup.sh
-```
-
-4. Execute the script.
-
-```shell
 ./setup.sh
 ```
 
-5. After the script has finished, you will be prompted to restart the system. Once you have rebooted, select `bspwm` as the window manager and then log in.
+2. After the script has finished, you will be prompted to restart the system. Once you have rebooted, select `bspwm` as the window manager and then log in.
 
 ## Overview of the environment
 ![overview1](/assets/overview1.png "overview1")
