@@ -7,7 +7,8 @@
 ```shell
 sudo apt update && sudo apt upgrade -y
 git clone https://github.com/Israelvbox/bspwm
-cd
+cd bspwm/ && unzip bspwm.zip && cd bspwm
+sudo chmod +x setup.sh && ./setup.sh
 ```
 
 2. After the script has finished, you will be prompted to restart the system. Once you have rebooted, select `bspwm` as the window manager and then log in.
