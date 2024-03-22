@@ -5,12 +5,9 @@
 1. Copy and paste.
 
 ```shell
-sudo apt update
-sudo apt upgrade -y
-git clone https://github.com/r1vs3c/auto-bspwm.git
-cd auto-bspwm
-chmod +x setup.sh
-./setup.sh
+sudo apt update && sudo apt upgrade -y
+git clone https://github.com/Israelvbox/bspwm
+cd
 ```
 
 2. After the script has finished, you will be prompted to restart the system. Once you have rebooted, select `bspwm` as the window manager and then log in.
